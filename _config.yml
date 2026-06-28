@@ -37,13 +37,13 @@ author:
       url: "https://github.com/anmolchaure"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://www.linkedin.com/in/anmol-chaure/"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0001-1707-8694"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://researchgate.net/profile/yourprofile"
+      url: "https://www.researchgate.net/profile/Anmol-Chaure?ev=hdr_xprf"
 
 footer:
   links:
@@ -52,7 +52,7 @@ footer:
       url: "https://github.com/anmolchaure"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://www.linkedin.com/in/anmol-chaure/"
 
 defaults:
   - scope:
