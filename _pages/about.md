@@ -1,8 +1,22 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Master's student in Environmental Modelling at the Czech University 
+of Life Sciences (CULS), Prague, currently working as a Research Technician 
+with the Environmental Health Research Group.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My current research focuses on the effects of temperature on zoonotic 
+pathogens, applying Distributed Lag Non-Linear Models (DLNM) and 
+Generalized Additive Models (GAM) to model environmental health outcomes.
+
+My broader technical background spans Earth system emulation using machine 
+learning (Gaussian Process Regression, VAE, GAN), cheminformatics analysis 
+of cyanobacterial metabolites, and numerical methods for variably saturated 
+flow — including study of the Richards equation and its solvers.
+
+I work primarily in Python and R, with experience in spatiotemporal data 
+(NetCDF), HPC environments, and tools such as Google Earth Engine and QGIS.
